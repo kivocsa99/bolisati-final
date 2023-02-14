@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>515681658668-l390ijhiug9dson3genpps6040016v4a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.515681658668-l390ijhiug9dson3genpps6040016v4a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>515681658668-qgvmplubga08feiokba4ljhjo916g6ch.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDG3tgZYEzabe4c924r4JjfrX_Edv0YQAo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>515681658668</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bolisati.bolisati</string>
+	<key>PROJECT_ID</key>
+	<string>gammabolisati</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gammabolisati.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:515681658668:ios:018a8aaf64c20bce19ae89</string>
+</dict>
+</plist>

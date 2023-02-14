@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="24" height="24" transform="translate(71 391)" fill="#d43333" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_37" data-name="Mask Group 37" transform="translate(-71 -391)" clip-path="url(#clip-path)">
+    <g id="broken-arm" transform="translate(71 391)">
+      <g id="Group_189" data-name="Group 189">
+        <g id="Group_188" data-name="Group 188">
+          <path id="Path_214" data-name="Path 214" d="M16.444,9.83a2.116,2.116,0,0,0,1.884-2.1,2.083,2.083,0,0,0-.357-1.15L12.789,3.993,6.466,6.1A2.1,2.1,0,0,0,7.556,9.83,5.021,5.021,0,0,0,9.863,12.2a.7.7,0,0,1-.675.506H8.33l1.406,5.625h3.3l3.854-5.557a4.843,4.843,0,0,0-.674-.068H14.813a.7.7,0,0,1-.675-.506A5.021,5.021,0,0,0,16.444,9.83Z" fill="#d43333"/>
+        </g>
+      </g>
+      <g id="Group_191" data-name="Group 191">
+        <g id="Group_190" data-name="Group 190">
+          <path id="Path_215" data-name="Path 215" d="M12,0A4.873,4.873,0,0,0,9.432.743l7.444,3.722A4.911,4.911,0,0,0,12,0Z" fill="#d43333"/>
+        </g>
+      </g>
+      <g id="Group_193" data-name="Group 193">
+        <g id="Group_192" data-name="Group 192">
+          <path id="Path_216" data-name="Path 216" d="M8.278,1.738A4.871,4.871,0,0,0,7.131,4.4L11.011,3.1Z" fill="#d43333"/>
+        </g>
+      </g>
+      <g id="Group_195" data-name="Group 195">
+        <g id="Group_194" data-name="Group 194">
+          <path id="Path_217" data-name="Path 217" d="M8.639,19.734l-1.73-6.947a4.922,4.922,0,0,0-4.05,4.838v2.813A3.555,3.555,0,0,0,6.375,24h9.141V19.734Z" fill="#d43333"/>
+        </g>
+      </g>
+      <g id="Group_197" data-name="Group 197">
+        <g id="Group_196" data-name="Group 196">
+          <path id="Path_218" data-name="Path 218" d="M18.314,13.189l-3.564,5.139h2.173V24h.7a3.557,3.557,0,0,0,3.516-3.562V17.625A4.916,4.916,0,0,0,18.314,13.189Z" fill="#d43333"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
